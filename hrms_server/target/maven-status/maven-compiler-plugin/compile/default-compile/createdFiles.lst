@@ -1,0 +1,11 @@
+hrms_server\dao\EmployeeDao.class
+hrms_server\entity\AttendanceStatus.class
+hrms_server\entity\Manager.class
+hrms_server\entity\Shift.class
+utils\EntityManagerFactoryUtil.class
+hrms_server\entity\Address.class
+hrms_server\entity\User.class
+hrms_server\entity\Account.class
+hrms_server\entity\Employee.class
+hrms_server\entity\Contact.class
+hrms_server\entity\Attendance.class
